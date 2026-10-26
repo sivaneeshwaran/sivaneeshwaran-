@@ -1,4 +1,12 @@
-<!-- ===================================================== --><!--                 HEADER / HERO BANNER                  --><!-- ===================================================== --><div align="center"><!-- Replace with your uploaded banner image URL if available -->SIVANEESHWARAN K
+ <div align="center">
+  <img
+    src="Cybersecurity%20%20Engineer%20at%20Twilight.png"
+    width="100%"
+    alt="Sivaneeshwaran K — Cybersecurity, AI and Software Engineering"
+  />
+</div>
+
+<br/><!-- ===================================================== --><!--                 HEADER / HERO BANNER                  --><!-- ===================================================== --><div align="center"><!-- Replace with your uploaded banner image URL if available -->SIVANEESHWARAN K
 
 "CYBERSECURITY" × "AI & SECURITY" × "SOFTWARE ENGINEERING"
 
