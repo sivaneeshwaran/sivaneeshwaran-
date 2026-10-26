@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
   <img
-    src="Cybersecurity%20%20Engineer%20at%20Twilight.png"
+    src="./Cybersecurity%20%20Engineer%20at%20Twilight.png"
     width="100%"
     alt="Sivaneeshwaran K — Cybersecurity, AI and Software Engineering"
   />
